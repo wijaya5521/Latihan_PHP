@@ -56,6 +56,7 @@ $books = [
                     <td><?= $book["penerbit"] ?></td>
                     <td><?= $book["tahun"] ?></td>
                 </tr>
+
             <?php endforeach; ?>
 
 
